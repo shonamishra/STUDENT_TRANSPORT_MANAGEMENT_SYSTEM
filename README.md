@@ -12,8 +12,6 @@ Retrieving data from the database.
 Search existing data from the database.
 Immediate printing of receipt and bus passes.
 
-# HARDWARE AND SOFTWARE REQUIREMENTS
-
 # HARDWARE REQUIREMENTS:
 •Hardware                        -    Pentium
 •Speed                           -    1.1GHz
