@@ -6,11 +6,11 @@ The main objective of this system is to reduce the consumption of time during ma
 Our software will overcome all these Safe, efficient, reliable, and sustainable movement of persons and goods over time and space.
 
 # 1.2 SCOPE OF THE PROJECT
-Adding new data to database. 
-Saving data in database.
-Retrieving data from the database. 
-Search existing data from the database.
-Immediate printing of receipt and bus passes.
+Adding new data to database. 
+Saving data in database.
+Retrieving data from the database. 
+Search existing data from the database.
+Immediate printing of receipt and bus passes.
 
 # 2.4 HARDWARE AND SOFTWARE REQUIREMENTS
 
@@ -30,9 +30,7 @@ Our software will overcome all these Safe, efficient, reliable, and sustainable 
 •Web Server                          -    Wamp2.2e
 •Database                      -     My SQL
 
-# TEAM MEMBER
-1. MD MIRAJ ANSARI
-2. LAVANYA TL
+
 
 
 
